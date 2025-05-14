@@ -1,1 +1,1 @@
-# UniversityOfCincninati
+# UniversityOfCincinnati
