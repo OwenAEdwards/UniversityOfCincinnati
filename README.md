@@ -13,52 +13,52 @@ This repository contains course materials, including slide decks, assignments, a
   </tr>
   <tr>
     <td>
-      CS1100 Intro to CS
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS1100%20Intro%20to%20CS" target="_blank" rel="noopener noreferrer">CS1100 Intro to CS</a>
     </td>
     <td>
-      CS2011 Introduction to Computer Systems
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS2011%20Introduction%20to%20Computer%20Systems" target="_blank" rel="noopener noreferrer">CS2011 Introduction to Computer Systems</a>
       <br>
       <br>
-      CS2021 Python Programming
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS2021%20Python%20Programming" target="_blank" rel="noopener noreferrer">CS2021 Python Programming</a>
       <br>
       <br>
-      IT2030C Information Security & Assurance
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/IT2030C%20Information%20Security%20%26%20Assurance" target="_blank" rel="noopener noreferrer">IT2030C Information Security & Assurance</a>
     </td>
     <td>
-      CS2071 Discrete Computational Structures
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS2071%20Discrete%20Computational%20Structures" target="_blank" rel="noopener noreferrer">CS2071 Discrete Computational Structures</a>
       <br>
       <br>
-      CS3003 Programming Languages
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS3003%20Programming%20Languages" target="_blank" rel="noopener noreferrer">CS3003 Programming Languages</a>
       <br>
       <br>
-      STAT2037 Probability & Statistics I
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/STAT2037%20Probability%20%26%20Statistics%20I" target="_blank" rel="noopener noreferrer">STAT2037 Probability & Statistics I</a>
     </td>
     <td>
-      CS4071 Design & Analysis of Algorithms
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS4071%20Design%20%26%20Analysis%20of%20Algorithms" target="_blank" rel="noopener noreferrer">CS4071 Design & Analysis of Algorithms</a>
       <br>
       <br>
-      CS4092 Database Design & Development
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS4092%20Database%20Design%20%26%20Development" target="_blank" rel="noopener noreferrer">CS4092 Database Design & Development</a>
       <br>
       <br>
-      EECE4029 Operating Systems and Systems Programming
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/EECE4029%20Operating%20Systems%20and%20Systems%20Programming" target="_blank" rel="noopener noreferrer">EECE4029 Operating Systems and Systems Programming</a>
     </td>
     <td>
-      CS4065 Computer Networks and Networked Computing
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS4065%20Computer%20Networks%20and%20Networked%20Computing" target="_blank" rel="noopener noreferrer">CS4065 Computer Networks and Networked Computing</a>
       <br>
       <br>
-      CS5127 Requirements Engineering
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS5127%20Requirements%20Engineering" target="_blank" rel="noopener noreferrer">CS5127 Requirements Engineering</a>
       <br>
       <br>
-      CS5167 User Interface I
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS5167%20User%20Interface%20I" target="_blank" rel="noopener noreferrer">CS5167 User Interface I</a>
       <br>
       <br>
-      CS5170 The Theory of Formal Languages and Automata
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS5170%20The%20Theory%20of%20Formal%20Languages%20and%20Automata" target="_blank" rel="noopener noreferrer">CS5170 The Theory of Formal Languages and Automata</a>
     </td>
     <td>
-      CS5124 Engineering Interactive Visual Interfaces for Data Science
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS5124%20Engineering%20Interactive%20Visual%20Interfaces%20for%20Data%20Science" target="_blank" rel="noopener noreferrer">CS5124 Engineering Interactive Visual Interfaces for Data Science</a>
       <br>
       <br>
-      CS5156 Security Vulnerability Assessment
+      <a href="https://github.com/OwenAEdwards/UniversityOfCincinnati/tree/main/CS5156%20Security%20Vulnerability%20Assessment" target="_blank" rel="noopener noreferrer">CS5156 Security Vulnerability Assessment</a>
     </td>
   </tr>
 </table>
