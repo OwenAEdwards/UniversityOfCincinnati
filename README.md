@@ -1,6 +1,6 @@
 # UniversityOfCincinnati
 
-This repository contains course materials, including slide decks, assignments, and selected readings from my Bachelor's Degree in Computer Science at the University of Cincinnati. These materials reflect the progression of my studies from foundational programming to advanced topics like operating systems, networks, UI/UX, and data visualization.
+This repository contains course materials, including slide decks and selected readings from my Bachelor's Degree in Computer Science at the University of Cincinnati. These materials reflect the progression of my studies from foundational programming to advanced topics like operating systems, networks, UI/UX, and data visualization.
 
 <table>
   <tr>
