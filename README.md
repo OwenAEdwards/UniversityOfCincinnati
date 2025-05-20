@@ -2,6 +2,8 @@
 
 This repository contains course materials, including slide decks and selected readings from my Bachelor's Degree in Computer Science at the University of Cincinnati. These materials reflect the progression of my studies from foundational programming to advanced topics like operating systems, networks, UI/UX, and data visualization.
 
+NOTE: If asked to take down any of these materials, I certainly will. I only included slides and selected readings, not solutions to assignments or homeworks for classes that use them from the textbook.
+
 <table>
   <tr>
     <th>Fall, 2021</th>
